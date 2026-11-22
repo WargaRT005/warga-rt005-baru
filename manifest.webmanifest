@@ -1,0 +1,9 @@
+{
+  "name": "Warga RT005",
+  "short_name": "Warga RT",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fa",
+  "theme_color": "#123b67",
+  "description": "Portal pelayanan dan informasi warga RT005"
+}
